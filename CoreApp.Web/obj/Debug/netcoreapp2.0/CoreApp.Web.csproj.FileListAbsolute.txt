@@ -1,0 +1,11 @@
+C:\Users\vramal\Downloads\DotNetCore\CoreApp.Web\bin\Debug\netcoreapp2.0\CoreApp.Web.deps.json
+C:\Users\vramal\Downloads\DotNetCore\CoreApp.Web\bin\Debug\netcoreapp2.0\CoreApp.Web.runtimeconfig.json
+C:\Users\vramal\Downloads\DotNetCore\CoreApp.Web\bin\Debug\netcoreapp2.0\CoreApp.Web.runtimeconfig.dev.json
+C:\Users\vramal\Downloads\DotNetCore\CoreApp.Web\bin\Debug\netcoreapp2.0\CoreApp.Web.dll
+C:\Users\vramal\Downloads\DotNetCore\CoreApp.Web\bin\Debug\netcoreapp2.0\CoreApp.Web.pdb
+C:\Users\vramal\Downloads\DotNetCore\CoreApp.Web\obj\Debug\netcoreapp2.0\CoreApp.Web.csprojAssemblyReference.cache
+C:\Users\vramal\Downloads\DotNetCore\CoreApp.Web\obj\Debug\netcoreapp2.0\CoreApp.Web.csproj.CoreCompileInputs.cache
+C:\Users\vramal\Downloads\DotNetCore\CoreApp.Web\obj\Debug\netcoreapp2.0\CoreApp.Web.AssemblyInfoInputs.cache
+C:\Users\vramal\Downloads\DotNetCore\CoreApp.Web\obj\Debug\netcoreapp2.0\CoreApp.Web.AssemblyInfo.cs
+C:\Users\vramal\Downloads\DotNetCore\CoreApp.Web\obj\Debug\netcoreapp2.0\CoreApp.Web.dll
+C:\Users\vramal\Downloads\DotNetCore\CoreApp.Web\obj\Debug\netcoreapp2.0\CoreApp.Web.pdb
