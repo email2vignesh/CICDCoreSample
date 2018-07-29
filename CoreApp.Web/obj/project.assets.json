@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vramal\\Downloads\\DotNetCore\\CoreApp.Web\\CoreApp.Web.csproj",
+      "projectUniqueName": "C:\\Users\\vramal\\Documents\\CICDCoreSample\\CoreApp.Web\\CoreApp.Web.csproj",
       "projectName": "CoreApp.Web",
-      "projectPath": "C:\\Users\\vramal\\Downloads\\DotNetCore\\CoreApp.Web\\CoreApp.Web.csproj",
+      "projectPath": "C:\\Users\\vramal\\Documents\\CICDCoreSample\\CoreApp.Web\\CoreApp.Web.csproj",
       "packagesPath": "C:\\Users\\vramal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vramal\\Downloads\\DotNetCore\\CoreApp.Web\\obj\\",
+      "outputPath": "C:\\Users\\vramal\\Documents\\CICDCoreSample\\CoreApp.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
